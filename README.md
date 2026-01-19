@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan Sonawane</h1>
 <h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan334&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan334" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan334" alt="bhushan334" /></a> </p>
 
 - 📫 How to reach me **bhushansonawane348@gmail.com**
 
