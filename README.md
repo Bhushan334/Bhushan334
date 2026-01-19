@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan Sonawane</h1>
 <h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 - 📫 How to reach me **bhushansonawane348@gmail.com**
