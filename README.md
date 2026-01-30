@@ -28,11 +28,10 @@
      alt="Git"
      width="50"
      height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     alt="GitHub"
+     width="50"
+     height="50" />
 
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -40,11 +39,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
      alt="Spring Boot"
      width="50"
-     height="50"/>
-     
+     height="50"/>    
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan334&show_icons=true&locale=en&layout=compact" alt="bhushan334" /></p>
 
