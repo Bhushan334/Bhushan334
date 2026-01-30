@@ -16,7 +16,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     alt="HTML"
+     width="50"
+     height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     alt="CSS"
+     width="50"
+     height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     alt="Git"
+     width="50"
+     height="50" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+     alt="GitHub"
+     width="50"
+     height="50"
+     style="filter: invert(1);" />
+
+
+
 
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
