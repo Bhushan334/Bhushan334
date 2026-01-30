@@ -28,11 +28,12 @@
      alt="Git"
      width="50"
      height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
      alt="GitHub"
      width="50"
-     height="50" />
-
+     height="50"
+     style="background:white; border-radius:6px;" />
+     
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
