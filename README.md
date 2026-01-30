@@ -28,11 +28,8 @@
      alt="Git"
      width="50"
      height="50" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-     alt="GitHub"
-     width="50"
-     height="50"
-     style="filter: invert(1);" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
 
 
 
@@ -44,6 +41,8 @@
      alt="Spring Boot"
      width="50"
      height="50"/>
+     
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 
 
 
