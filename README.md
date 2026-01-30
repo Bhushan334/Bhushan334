@@ -1,9 +1,3 @@
-\<!-- 🌌 PREMIUM DARK HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=240&section=header&text=Bhushan%20Sonawane&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Bhushan Sonawane</h1>
 <h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
