@@ -45,9 +45,15 @@
 </p>
 
 # 📊 GitHub Stats:
+<p align="left">
+<div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=midnight-purple&hide_border=true"/>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=bhushan334&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan334&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;" alt="mystreak"/>
