@@ -51,6 +51,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan334&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;" alt="mystreak"/>
 </p>
 
