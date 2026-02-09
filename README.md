@@ -45,14 +45,9 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="left">
-<div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=midnight-purple&hide_border=true"/>
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=bhushan334&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan334&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p>
+<img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
