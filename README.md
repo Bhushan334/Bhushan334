@@ -50,5 +50,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan334&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=~+Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;" alt="mystreak"/>
 </p>
