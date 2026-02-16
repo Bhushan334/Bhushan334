@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **bhushansonawane348@gmail.com**
 
-- <img src="https://komarev.com/ghpvc/?username=bhushan334&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 
 <h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40"> Languages and Tools:&nbsp;</h3>
