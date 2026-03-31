@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Bhushan Sonawane</h1>
 <h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
-<img align="right" alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+
+- 📫 How to reach me **bhushansonawane348@gmail.com**
+
+- ![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
 
 
 
@@ -41,11 +46,6 @@
 <a href="https://www.linkedin.com/in/bhushan-sonawane-7841ba329/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" width="70"></a>
 <a href="https://www.instagram.com/b_h_u_s_h_a_n_7_/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" width="70"></a>
 </p>
-
-- [![Gmail](https://img.shields.io/badge/GMAIL-0066ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushansonawane348@gmail.com)
-
-![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
-
 
 # 📊 GitHub Stats:
 <p>
