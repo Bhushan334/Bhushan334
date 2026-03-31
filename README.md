@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhushansonawane348@gmail.com**
 
-- <img src="https://komarev.com/ghpvc/?username=bhushan334&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+- ![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
 
 
 
