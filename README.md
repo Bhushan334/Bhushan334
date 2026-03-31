@@ -44,7 +44,7 @@
 
 - [![Gmail](https://img.shields.io/badge/GMAIL-0066ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushansonawane348@gmail.com)
 
-- ![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
+![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
 
 
 # 📊 GitHub Stats:
