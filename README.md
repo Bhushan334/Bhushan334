@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Bhushan Sonawane</h1>
 <h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 
