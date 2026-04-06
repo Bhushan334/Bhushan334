@@ -24,15 +24,9 @@
      alt="CSS"
      width="50"
      height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     alt="Git"
-     width="50"
-     height="50" />
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-     alt="GitHub"
-     width="50"
-     height="50"
-     style="background:white; border-radius:6px;" />
+
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="50" height="50"/>
      
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -42,6 +36,11 @@
      width="50"
      height="50"/>    
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="50" height="50"/>
+ <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50" height="50"/>
+
 
 <h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40"> Connect with me on: &nbsp;</h3>
 <p align="left">
