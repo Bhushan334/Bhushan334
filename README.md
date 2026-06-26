@@ -33,6 +33,10 @@
   <img src="https://cdn.simpleicons.org/langchain" width="50"/>
   <img src="https://cdn.simpleicons.org/huggingface" width="50"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/numpy" width="50" />
+  <img src="https://cdn.simpleicons.org/pandas" width="50" />
+  <img src="https://cdn.simpleicons.org/jupyter" width="50" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="50" />
   <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" width="50" height="50"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50"/>
 </p>
