@@ -21,8 +21,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" height="50"/> 
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
@@ -33,11 +35,18 @@
   <img src="https://cdn.simpleicons.org/langchain" width="50"/>
   <img src="https://cdn.simpleicons.org/huggingface" width="50"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/googlecloud" width="50" />
   <img src="https://cdn.simpleicons.org/numpy" width="50" />
   <img src="https://cdn.simpleicons.org/pandas" width="50" />
   <img src="https://cdn.simpleicons.org/jupyter" width="50" />
   <img src="https://cdn.simpleicons.org/scikitlearn" width="50" />
+  <img src="https://cdn.simpleicons.org/php" width="50" />
+  <img src="https://cdn.simpleicons.org/go" width="50" />
   <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/postman" width="50" />
+  <img src="https://cdn.simpleicons.org/intellijidea" width="50" />
+  <img src="https://cdn.simpleicons.org/eclipseide" width="50" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50"/>
 </p>
 
