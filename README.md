@@ -43,7 +43,6 @@
   <img src="https://cdn.simpleicons.org/php" width="50" />
   <img src="https://cdn.simpleicons.org/go" width="50" />
   <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/postman" width="50" />
   <img src="https://cdn.simpleicons.org/intellijidea" width="50" />
   <img src="https://cdn.simpleicons.org/eclipseide" width="50" />
