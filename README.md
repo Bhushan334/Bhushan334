@@ -59,13 +59,17 @@
 
 <h1> 📊 GitHub Stats: </h1>
 <p>
-<img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+ <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 <img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
 </p>
-
+<p align="center">
+<img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan334&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
 </p>
+
+ 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;" alt="mystreak"/>
