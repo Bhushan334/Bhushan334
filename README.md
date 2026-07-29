@@ -8,7 +8,13 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">How to reach me **bhushansonawane348@gmail.com**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40"> ![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
+<p align="left">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40"/>
+
+<img src="https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews"/>
+
+</p>
 
 
 
