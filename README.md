@@ -80,6 +80,10 @@ Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </td>
 
+</tr>
+
+<tr>
+     
 <td>
 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"
      width="50"
@@ -89,10 +93,6 @@ Languages and Tools:
 <td>
 <img src="https://cdn.simpleicons.org/tailwindcss" width="50">
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50">
@@ -110,6 +110,10 @@ Languages and Tools:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50">
 </td>
 
+</tr>
+
+<tr>
+     
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50">
 </td>
@@ -127,10 +131,6 @@ Languages and Tools:
 <td>
 <img src="https://cdn.simpleicons.org/fastapi" width="50">
 </td>
-
-</tr>
-
-<tr>
      
 <td>
 <img src="https://cdn.simpleicons.org/sqlite" width="50">
@@ -140,6 +140,10 @@ Languages and Tools:
 <img src="https://cdn.simpleicons.org/langchain" width="50">
 </td>
 
+</tr>
+
+<tr>
+     
 <td>
 <img src="https://cdn.simpleicons.org/huggingface" width="50">
 </td>
@@ -193,6 +197,10 @@ Languages and Tools:
 <td>
 <img src="https://cdn.simpleicons.org/intellijidea" width="50">
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 <img src="https://cdn.simpleicons.org/eclipseide" width="50">
