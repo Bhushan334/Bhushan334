@@ -221,8 +221,10 @@ Languages and Tools:
 </td>
 
 <h1> 📊 GitHub Stats: </h1>
-<p>
+<p align="center">
  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+<p align="center">
 <img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
 </p>
 <p align="center">
