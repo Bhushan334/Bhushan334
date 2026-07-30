@@ -57,8 +57,8 @@
 
 <h1> 📊 GitHub Stats: </h1>
 <p>
- <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
+ <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
 </p>
 <p align="center">
 <img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
