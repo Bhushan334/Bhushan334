@@ -1,51 +1,27 @@
-<!-- ========================= HEADER ========================= -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline;">
 
-<img align="left"
-     src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
-     width="13%">
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Bhushan Rajendra Sonawane</h1>
+<h3 align="center">Turning Ideas into Code | Developer & Programmer from India</h3>
 
-<img align="right"
-     src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
-     width="13%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img align="right" alt="Coder GIF" height=500 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<h1 align="center">
-  Hi
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
-       width="30">
-  , I'm Bhushan Rajendra Sonawane
-</h1>
 
-<h3 align="center">
-  Turning Ideas into Code | Developer & Programmer from India
-</h3>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="100%">
-
-<br>
-
-<!-- ========================= ABOUT + CODER ========================= -->
-
-<table width="100%">
+<table>
 <tr>
 
-<td width="60%" valign="top">
+<td valign="middle">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">How to reach me
+</td>
 
-<h3>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-     width="50">
-How to reach me
-</h3>
-
-<h3>
-<a href="mailto:bhushansonawane348@gmail.com">
+<td valign="middle">
 bhushansonawane348@gmail.com
-</a>
-</h3>
+</td>
 
-<br>
+</tr>
+</table>
+
+
 
 <!-- ========================= PROFILE VIEWS ========================= -->
 
@@ -64,7 +40,8 @@ bhushansonawane348@gmail.com
 </tr>
 </table>
 
-<br>
+
+
 
 <!-- ========================= LANGUAGES ========================= -->
 
@@ -113,6 +90,10 @@ Languages and Tools:
 <img src="https://cdn.simpleicons.org/tailwindcss" width="50">
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50">
 </td>
@@ -120,10 +101,6 @@ Languages and Tools:
 <td>
 <img src="https://cdn.simpleicons.org/typescript" width="50">
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50">
@@ -151,6 +128,10 @@ Languages and Tools:
 <img src="https://cdn.simpleicons.org/fastapi" width="50">
 </td>
 
+</tr>
+
+<tr>
+     
 <td>
 <img src="https://cdn.simpleicons.org/sqlite" width="50">
 </td>
@@ -166,10 +147,6 @@ Languages and Tools:
 <td>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50">
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 <img src="https://cdn.simpleicons.org/googlecloud" width="50">
@@ -187,6 +164,10 @@ Languages and Tools:
 <img src="https://cdn.simpleicons.org/jupyter" width="50">
 </td>
 
+</tr>
+
+<tr>
+     
 <td>
 <img src="https://cdn.simpleicons.org/scikitlearn" width="50">
 </td>
@@ -213,10 +194,6 @@ Languages and Tools:
 <img src="https://cdn.simpleicons.org/intellijidea" width="50">
 </td>
 
-</tr>
-
-<tr>
-
 <td>
 <img src="https://cdn.simpleicons.org/eclipseide" width="50">
 </td>
@@ -227,14 +204,7 @@ Languages and Tools:
      height="50">
 </td>
 
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
 
 </tr>
 
@@ -242,158 +212,31 @@ Languages and Tools:
 
 </td>
 
+<h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40"> Connect with me on: &nbsp;</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhushan-sonawane-7841ba329/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" width="70"></a>
+<a href="https://www.instagram.com/b_h_u_s_h_a_n_7_/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" width="70"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- ========================= CODER IMAGE ========================= -->
-
-<td width="40%" align="center" valign="top">
-
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
-     alt="Coder GIF"
-     width="350">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ========================= CONNECT ========================= -->
-
-<h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2"
-     width="40">
-Connect with me on:
-</h3>
-
-<table>
-<tr>
-
-<td>
-
-<a href="https://www.linkedin.com/in/bhushan-sonawane-7841ba329/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-     width="70"
-     height="70">
-</a>
-
-</td>
-
-<td>
-
-<a href="https://www.instagram.com/b_h_u_s_h_a_n_7_/">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
-     width="70"
-     height="70">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="100%">
-
-<br>
-
-
-<!-- ========================= GITHUB STATS ========================= -->
-
-<h1>
-📊 GitHub Stats:
-</h1>
-
-<table width="100%">
-<tr>
-
-<!-- GITHUB STATS -->
-
-<td width="50%" align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-width="100%"
->
-
-</td>
-
-<!-- STREAK -->
-
-<td width="50%" align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true"
-width="100%"
->
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ========================= MOST USED LANGUAGES ========================= -->
-
-<table width="100%">
-<tr>
-
-<td align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8"
-width="55%"
->
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ========================= CONTRIBUTION GRAPH ========================= -->
-
+<h1> 📊 GitHub Stats: </h1>
+<p>
+ <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
+</p>
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan334&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph"
-width="95%"
->
-
+<img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushan334&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
 </p>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="100%">
-
-<br>
-
-<!-- ========================= THANK YOU ========================= -->
-
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;"
-alt="Thanks"
->
-
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Have+A+Great+Day+~!;" alt="mystreak"/>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="100%">
-
-<br>
-
-<!-- ========================= FOOTER ========================= -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-width="100%"
->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
