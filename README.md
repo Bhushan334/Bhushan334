@@ -10,39 +10,6 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40"> ![Views](https://komarev.com/ghpvc/?username=bhushan334&style=for-the-badge&color=0066ff&labelColor=050520&label=ProfileViews)
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Frontend</b></td>
-    <td>
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
-      
-   </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,js" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Libraries & APIs</b></td>
-    <td><b>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; REST APIs</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & Platforms</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" /></td>
-  </tr>
-</table>
 
 <h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40"> Languages and Tools:&nbsp;</h3>
 <p align="left">
@@ -90,8 +57,8 @@
 
 <h1> 📊 GitHub Stats: </h1>
 <p>
- <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
+ <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhushan334&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan334&theme=radical&hide_border=true" />
 </p>
 <p align="center">
 <img  width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhushan334&layout=compact&theme=radical&hide_border=true&langs_count=8" />
