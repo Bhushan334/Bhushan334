@@ -220,8 +220,10 @@ Languages and Tools:
 
 </td>
 
-<h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40"> Connect with me on: &nbsp;</h3>
-<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40"> Connect with me on: &nbsp;</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/bhushan-sonawane-7841ba329/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" width="70"></a>
 <a href="https://www.instagram.com/b_h_u_s_h_a_n_7_/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" width="70"></a>
 </p>
